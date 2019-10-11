@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10.0.2" class="java.beans.XMLDecoder">
+ <object class="GenericLinkedList"/>
+ <object class="Point">
+  <void property="adress">
+   <string>town</string>
+  </void>
+  <void property="name">
+   <string>Avon</string>
+  </void>
+  <void property="spec">
+   <string>shmot, cukerki</string>
+  </void>
+  <void property="telephones">
+   <object class="GenericLinkedList" id="GenericLinkedList0"/>
+  </void>
+ </object>
+ <object idref="GenericLinkedList0"/>
+ <string>5</string>
+ <string>6</string>
+ <string>0</string>
+ <string>1</string>
+ <string>2</string>
+ <string>3</string>
+</java>

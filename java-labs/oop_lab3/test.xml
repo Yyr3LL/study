@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="laba3.Point">
+    <void property="adress">
+     <string>klk</string>
+    </void>
+    <void property="name">
+     <string>asd</string>
+    </void>
+    <void property="spec">
+     <string>asddfghfgh</string>
+    </void>
+    <void property="telephones">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <string>2</string>
+      </void>
+      <void method="add">
+       <string>3</string>
+      </void>
+      <void method="add">
+       <string></string>
+      </void>
+      <void method="add">
+       <string>1111</string>
+      </void>
+      <void method="add">
+       <string>2222</string>
+      </void>
+      <void method="add">
+       <string>3333</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+ <string>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;java version=&quot;10.0.2&quot; class=&quot;java.beans.XMLDecoder&quot;&gt;
+ &lt;object class=&quot;java.util.ArrayList&quot;&gt;
+  &lt;void method=&quot;add&quot;&gt;
+   &lt;string&gt;2&lt;/string&gt;
+  &lt;/void&gt;
+  &lt;void method=&quot;add&quot;&gt;
+   &lt;string&gt;3&lt;/string&gt;
+  &lt;/void&gt;
+  &lt;void method=&quot;add&quot;&gt;
+   &lt;string&gt;&lt;/string&gt;
+  &lt;/void&gt;
+  &lt;void method=&quot;add&quot;&gt;
+   &lt;string&gt;1111&lt;/string&gt;
+  &lt;/void&gt;
+  &lt;void method=&quot;add&quot;&gt;
+   &lt;string&gt;2222&lt;/string&gt;
+  &lt;/void&gt;
+  &lt;void method=&quot;add&quot;&gt;
+   &lt;string&gt;3333&lt;/string&gt;
+  &lt;/void&gt;
+ &lt;/object&gt;
+&lt;/java&gt;
+</string>
+</java>
